@@ -1,1 +1,1 @@
-# PeelCoin
+# PellCoin
